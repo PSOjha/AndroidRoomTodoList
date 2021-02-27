@@ -8,3 +8,9 @@ The Room persistence library provides an abstraction layer over SQLite to allow 
     implementation "android.arch.persistence.room:runtime:1.0.0"
 
     annotationProcessor "android.arch.persistence.room:compiler:1.0.0
+
+#### The output of the above application in action is given below.
+
+![android-room-todolist-output](https://user-images.githubusercontent.com/32029236/109394190-bae4d880-794b-11eb-9be8-fbc32aa9d9bb.gif)
+
+
