@@ -1,4 +1,7 @@
 # AndroidRoomTodoList
+
+    This application makes it easy to manage your task list on Android phones & tablets.
+    
 we are going to be creating a ToDo Listing application using the Android Architecture Components.
 
 #### Why Room
