@@ -19,4 +19,4 @@ The Room persistence library provides an abstraction layer over SQLite to allow 
 
 #### User Stories
 
-
+ User can successfully add and remove items from the todo list
